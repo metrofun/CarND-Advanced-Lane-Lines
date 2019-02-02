@@ -94,7 +94,7 @@ I took the same pixel/world rations from the lectures. The result is visible on 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 The logic is in section "1.6" in P2.ipynb. I have inverted the sign of distortion to disort lanes back. Not 100% positive on it's correctness. But visually it looks alright.
 
-![orig with lanes]['orig_with_lanes_test6]
+![orig with lanes][orig_with_lanes_test6]
 
 ---
 
